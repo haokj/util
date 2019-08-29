@@ -1,7 +1,7 @@
 <?php
 namespace Haokj\Util;
 
-use Haokj\Util\exception\token\TokenException;
+use Haokj\Util\exception\TokenException;
 use Firebase\JWT\JWT;
 use think\Exception;
 use think\facade\Request;
